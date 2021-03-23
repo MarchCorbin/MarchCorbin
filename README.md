@@ -5,6 +5,20 @@
 
 # Technologies
 ![](https://img.shields.io/badge/JS-JavaScript-informational?style=plastic&logo=javascript&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/HTML-HTML5-informational?style=plastic&logo=html&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/React-React-informational?style=plastic&logo=react&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/RH-React Hooks-informational?style=plastic&logo=react&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/Git-GitHub-informational?style=plastic&logo=github&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/MC-Mocha/Chai-informational?style=plastic&logo=javascript&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/RX-Redux-informational?style=plastic&logo=redux&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/EX-Express-informational?style=plastic&logo=redux&logoColor=yellow&color=black)
+
+![](https://img.shields.io/badge/Vue-Vue.js-informational?style=plastic&logo=vue&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/SASS-SASS-informational?style=plastic&logo=sass&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/OOP-Object Oriented Programming-informational?style=plastic&logo=oop&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/RN-React Native-informational?style=plastic&logo=react&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/EXP-Express-informational?style=plastic&logo=express&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/NJ-Node-informational?style=plastic&logo=node&logoColor=yellow&color=black)
 
 <!--
 **MarchCorbin/MarchCorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
