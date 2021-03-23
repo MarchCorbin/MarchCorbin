@@ -1,7 +1,11 @@
-# Corbin March
+# Corbin March GitHub
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarchCorbin&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Corbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarchCorbin&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+# Technologies
+![](https://img.shields.io/badge/JS-JavaScript-informational?style=plastic&logo=javascript&logoColor=yellow&color=black)
+
 <!--
 **MarchCorbin/MarchCorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
