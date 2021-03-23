@@ -32,8 +32,8 @@
   GitHub
 </a>
 
-<a>
-  <img height=15 src='https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png' />
+<a href='https://www.linkedin.com/in/marchcorbin/'>
+  <img height=15 src='https://image.flaticon.com/icons/png/512/61/61109.png' />
   LinkedIn
 </a>
 
