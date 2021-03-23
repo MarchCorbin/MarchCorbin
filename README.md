@@ -8,6 +8,9 @@
 ![](https://img.shields.io/badge/HTML-HTML5-informational?style=plastic&logo=html5&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/React-React-informational?style=plastic&logo=react&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/RR-React-Router-informational?style=plastic&logo=react-router&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/React-Hooks-informational?style=plastic&logo=react&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/React-Native-informational?style=plastic&logo=react&logoColor=yellow&color=black)
+
 ![](https://img.shields.io/badge/Git-GitHub-informational?style=plastic&logo=github&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/MO-Mocha-informational?style=plastic&logo=mocha&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/RX-Redux-informational?style=plastic&logo=redux&logoColor=yellow&color=black)
