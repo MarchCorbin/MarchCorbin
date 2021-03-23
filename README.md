@@ -33,7 +33,7 @@
 </a>
 
 <a>
-  <img src='https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png' />
+  <img height=50 src='https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png' />
   LinkedIn
 </a>
 
