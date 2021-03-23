@@ -27,9 +27,8 @@
 
 # Contact Me
 
-<a href='https://github.com/MarchCorbin'>
-![](https://img.shields.io/badge/GitHub-MarchCorbin-informational?style=plastic&logo=github-studio-code&logoColor=yellow&color=black)
-</a>
+
+![](https://img.shields.io/badge/GitHub-MarchCorbin-informational?style=plastic&logo=github-studio-code&logoColor=yellow&color=black&link=https://github.com/MarchCorbin)
 
 ![](https://img.shields.io/badge/CSS-CSS3-informational?style=plastic&logo=css3&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/HR-Heroku-informational?style=plastic&logo=heroku&logoColor=yellow&color=black)
