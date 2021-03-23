@@ -1,6 +1,6 @@
 # Corbin March
 
-[![Corbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarchCorbin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Corbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarchCorbin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MarchCorbin/MarchCorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
