@@ -29,7 +29,7 @@
 
 <a href='https://github.com/MarchCorbin'>
   <img src='http://i.imgur.com/9I6NRUm.png' />
-  <h3>GitHub</h3>
+  GitHub
 </a>
 
 
