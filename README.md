@@ -27,8 +27,8 @@
 
 # Contact Me
 
-[GitHub](https://github.com/MarchCorbin)
-[LinkedIn](https://www.linkedin.com/in/marchcorbin/)
+[GitHub](https://github.com/MarchCorbin)<br/>
+[LinkedIn](https://www.linkedin.com/in/marchcorbin/)<br/>
 [Portfolio](corbinmarch.com)
 
 ![](https://img.shields.io/badge/Git-MarchCorbin-informational?style=plastic&logo=github&logoColor=yellow&color=black&link=https://github.com/MarchCorbin)
