@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/OOP-Object-Oriented-Programming-informational?style=plastic&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/EXP-Express-informational?style=plastic&logo=express&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/NJ-Node-informational?style=plastic&logo=node.js&logoColor=yellow&color=black)
-![](https://img.shields.io/badge/PS-Postman-informational?style=plastic&logo=postman.js&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/PS-Postman-informational?style=plastic&logo=Postman.js&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/TV-TravisCI-informational?style=plastic&logo=travis-ci&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/SASS-Sass-informational?style=plastic&logo=sass&logoColor=yellow&color=black)
 
