@@ -6,8 +6,8 @@
 # Technologies
 ![](https://img.shields.io/badge/JS-JavaScript-informational?style=plastic&logo=javascript&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/HTML-HTML5-informational?style=plastic&logo=html5&logoColor=yellow&color=black)
-![](https://img.shields.io/badge/React-React-informational?style=plastic&logo=react&logoColor=yellow&color=black)
-![](https://img.shields.io/badge/RR-React-Router-informational?style=plastic&logo=react-router&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/React-React.js-informational?style=plastic&logo=react&logoColor=yellow&color=black)
+![](https://img.shields.io/badge/RR-ReactRouter-informational?style=plastic&logo=react-router&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/React-Hooks-informational?style=plastic&logo=react&logoColor=yellow&color=black)
 ![](https://img.shields.io/badge/React-Native-informational?style=plastic&logo=react&logoColor=yellow&color=black)
 
