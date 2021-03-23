@@ -27,7 +27,8 @@
 
 # Contact Me
 
-![GitHub][http://i.imgur.com/0o48UoR.png][https://github.com/MarchCorbin]<br/>
+![GitHub](http://i.imgur.com/0o48UoR.png)[https://github.com/MarchCorbin]<br/>
+<img src='http://i.imgur.com/0o48UoR.png' />
 [LinkedIn](https://www.linkedin.com/in/marchcorbin/)<br/>
 [Portfolio](corbinmarch.com)
 
