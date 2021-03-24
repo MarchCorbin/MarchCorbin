@@ -31,21 +31,16 @@
   <img src='http://i.imgur.com/9I6NRUm.png' />
   GitHub
 </a>
-
+<br/>
 <a href='https://www.linkedin.com/in/marchcorbin/'>
   <img height=15 src='https://image.flaticon.com/icons/png/512/61/61109.png' />
   LinkedIn
 </a>
-
-
-
-[LinkedIn](https://www.linkedin.com/in/marchcorbin/)<br/>
-[Portfolio](corbinmarch.com)
-
-![](https://img.shields.io/badge/Git-MarchCorbin-informational?style=plastic&logo=github&logoColor=yellow&color=black&link=https://github.com/MarchCorbin)
-
-![](https://img.shields.io/badge/CSS-CSS3-informational?style=plastic&logo=css3&logoColor=yellow&color=black)
-![](https://img.shields.io/badge/HR-Heroku-informational?style=plastic&logo=heroku&logoColor=yellow&color=black)
+<br/>
+<a href='corbinmarch.com'>
+<img height=15 src='https://www.flaticon.com/svg/vstatic/svg/1063/1063196.svg?token=exp=1616545007~hmac=8b6f7349bab0e2ee1134ab1f20163c54' />
+  Portfolio
+</a>
 
 <!--
 **MarchCorbin/MarchCorbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
